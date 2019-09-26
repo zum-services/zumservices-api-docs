@@ -1,9 +1,9 @@
-# wallet-api-docs
+# zumservices-api-docs
 This is a very lightly tweaked version of https://github.com/swagger-api/swagger-editor for our use case.
 
 ## Running
 
-Visit https://zumcoin.github.io/wallet-api-docs/
+Visit https://zumcoin.github.io/zumservices-api-docs/
 
 Or, if developing locally, simply open `index.html` in your web browser
 
