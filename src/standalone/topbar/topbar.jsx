@@ -369,7 +369,7 @@ export default class Topbar extends React.Component {
           <div className="topbar-wrapper">
             <Link href="#">
               <img height="30" width="30" className="topbar-logo__img" src={ Logo } alt=""/>
-              <span className="topbar-logo__title">ZumCoin Wallet API Documentation</span>
+              <span className="topbar-logo__title">ZUM Services API Documentation</span>
             </Link>
             <TopbarInsert {...this.props} />
             { showClientsMenu ? <DropdownMenu className="long" {...makeMenuOptions("Generate Client")}>
